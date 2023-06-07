@@ -1,4 +1,3 @@
-Here's an example of how you could format that text nicely in markdown:
 
 # Email Application Java
 
